@@ -3,7 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=1000&lines=Hey,+My+name+is+Raphael;I'm+25+years+old;I'm+from+Brazil;Currently+studing+Data+Science)](https://git.io/typing-svg)
 
 
-
+### Main Skills:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<i class="devicon-azuresqldatabase-plain colored"></i>
+                    
+          
 <!--
 **Raufin/Raufin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
