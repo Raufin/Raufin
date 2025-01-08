@@ -1,4 +1,8 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=120&color=gradient&reversal=false&fontAlign=50&animation=fadeIn&textBg=false&descAlign=50"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey,+My+name+is+Raphael;I'm+25+years+old;I'm+from+Brazil;Currently+studing+Data+Science)](https://git.io/typing-svg)
+
+
 
 <!--
 **Raufin/Raufin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
